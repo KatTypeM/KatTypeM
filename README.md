@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KatTypeM
 - 👀 I’m interested in learning all types of programming to create cool programs for the world.
-- 🐾 Currently know HTML5/CSS3/Javascript
+- 🐾 Currently know HTML5 / CSS3 / Javascript
 - 🌱 I’m currently learning reactjs / sql / php / python
 - 💞️ I’m looking to collaborate on ... No idea yet
 - 📫 How to reach me... 
