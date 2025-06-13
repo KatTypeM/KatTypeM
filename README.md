@@ -2,7 +2,7 @@
 - 
 - 👀 I’m interested in learning all types of programming to create cool programs for the world.
 - 
-- 🐾 Currently know HTML5 / CSS3 / Javascript / C# / Unity / React.js / Node.js / typescript
+- 🐾 Currently know HTML5 / CSS3 / Javascript / C# / Unity / React.js / Node.js / typescript / Git
 - 
 - 🌱 I’m currently learning  sql / php / python / docker 
 - 
