@@ -4,7 +4,7 @@
 - 
 - 🐾 Currently know HTML5 / CSS3 / Javascript / C# / Unity / React.js / Node.js / typescript / Git
 - 
-- 🌱 I’m currently learning  sql / php / python / docker 
+- 🌱 I’m currently learning  sql / php / python / docker / django
 - 
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me... 
