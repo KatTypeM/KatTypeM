@@ -4,7 +4,7 @@
 - 
 - 🐾 Currently know:
 - HTML5 / CSS3 / Javascript
-- React.js / Node.js / typescript
+- React.js / Node.js / Typescript
 - C# / Unity 
 - python / django
 - Git
